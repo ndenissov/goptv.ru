@@ -3,7 +3,7 @@ package cmd
 import (
 	"flag"
 	"fmt"
-	"github.com/nikdissv-forever/goptv.ru/m3u"
+	"github.com/ndenissov/goptv.ru/m3u"
 	"log"
 	"os"
 )

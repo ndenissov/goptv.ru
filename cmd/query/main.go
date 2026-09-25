@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/nikdissv-forever/goptv.ru"
-	"github.com/nikdissv-forever/goptv.ru/cmd"
+	"github.com/ndenissov/goptv.ru"
+	"github.com/ndenissov/goptv.ru/cmd"
 	"log"
 )
 

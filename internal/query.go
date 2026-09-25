@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/nikdissv-forever/goptv.ru/pkg"
+	"github.com/ndenissov/goptv.ru/pkg"
 	"io"
 	"net/http"
 	"net/url"

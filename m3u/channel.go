@@ -1,6 +1,6 @@
 package m3u
 
-import "github.com/nikdissv-forever/goptv.ru/pkg"
+import "github.com/ndenissov/goptv.ru/pkg"
 
 type Channel struct {
 	*Header

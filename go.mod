@@ -1,3 +1,3 @@
-module github.com/nikdissv-forever/goptv.ru
+module github.com/ndenissov/goptv.ru
 
 go 1.20

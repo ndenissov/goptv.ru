@@ -2,10 +2,10 @@ package ptv
 
 import (
 	"fmt"
-	"github.com/nikdissv-forever/goptv.ru/internal"
-	"github.com/nikdissv-forever/goptv.ru/m3u"
-	"github.com/nikdissv-forever/goptv.ru/pkg"
-	"github.com/nikdissv-forever/goptv.ru/source"
+	"github.com/ndenissov/goptv.ru/internal"
+	"github.com/ndenissov/goptv.ru/m3u"
+	"github.com/ndenissov/goptv.ru/pkg"
+	"github.com/ndenissov/goptv.ru/source"
 	"strings"
 )
 

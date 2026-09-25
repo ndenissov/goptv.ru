@@ -2,7 +2,7 @@ package source
 
 import (
 	"fmt"
-	"github.com/nikdissv-forever/goptv.ru/pkg"
+	"github.com/ndenissov/goptv.ru/pkg"
 	"strconv"
 )
 
